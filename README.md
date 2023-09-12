@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Youssef-Mezher
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Computer Science at Ryerson University
+- 🌱 I’m currently learning Computer Science at Toronto Metropolitan University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : youssef.mezher7@gmail.com
 
